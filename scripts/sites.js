@@ -447,6 +447,14 @@ const sites = [
     type: "phone",
     title: "The Light Phone",
     url: "https://www.thelightphone.com"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "instant messaging",
+    title: "Threema",
+    url: "https://threema.ch/"
   }
 ]
 
