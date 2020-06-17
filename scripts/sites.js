@@ -84,7 +84,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "other",
+    type: "storage",
     title: "NextCloud",
     url: "https://nextcloud.com/"
   },
@@ -156,7 +156,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "other",
+    type: "map",
     title: "Open Street Map",
     url: "https://www.openstreetmap.org"
   },
@@ -454,8 +454,33 @@ const sites = [
     langs: [''],
     type: "instant messaging",
     title: "Threema",
-    url: "https://threema.ch/"
+    url: "https://threema.ch/en"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "instant messaging",
+    title: "Conversation",
+    url: "https://conversations.im/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "voip",
+    title: "Big Blue Button",
+    url: "https://bigbluebutton.org/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "translation",
+    title: "DeepL",
+    url: "https://www.deepl.com/translator"
   }
+
 ]
 
 
