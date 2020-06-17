@@ -10,7 +10,7 @@ body strong { font-weight: bold; }
 body .selected { background: white; color:black; }
 
 /* manifesto */
-body #manifesto { text-align: justify; max-width: 65vh;}
+body #manifesto { text-align: justify; min-height: 0vh; max-width: 65vh;}
 
 /* portal */
 body #portal { display: flex; flex-direction: column; }
