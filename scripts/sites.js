@@ -380,7 +380,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "text editor",
+    type: "text editor/IDE",
     title: "MacDown",
     url: "https://macdown.uranusjr.com/"
   },
@@ -388,7 +388,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "text editor",
+    type: "text editor/IDE",
     title: "Vim",
     url: "https://www.vim.org/"
   },
@@ -396,7 +396,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "text editor",
+    type: "text editor/IDE",
     title: "LibreOffice Writer",
     url: "https://www.libreoffice.org/discover/writer/"
   },
@@ -436,7 +436,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "note taking",
+    type: "text editor/IDE",
     title: "Zettlr",
     url: "https://www.zettlr.com/"
   },
@@ -528,6 +528,62 @@ const sites = [
     type: "note taking",
     title: "Mak ink",
     url: "https://mak.ink/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "text editor/IDE",
+    title: "Atome",
+    url: "https://atom.io/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "text editor/IDE",
+    title: "Brackers",
+    url: "http://brackets.io/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "text editor/IDE",
+    title: "Visual Code Studio",
+    url: "https://code.visualstudio.com/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "text editor/IDE",
+    title: "Ghostwriter",
+    url: "https://wereturtle.github.io/ghostwriter/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "text editor/IDE",
+    title: "GitBook",
+    url: "https://www.gitbook.com/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "text editor/IDE",
+    title: "Bibisco",
+    url: "https://bibisco.com/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "text editor/IDE",
+    title: "LaTex",
+    url: "https://www.latex-project.org/"
   }
   
 ]
