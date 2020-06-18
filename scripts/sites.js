@@ -76,9 +76,9 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "email",
-    title: "Thunderbird",
-    url: "https://www.thunderbird.net/"
+    type: "RSS feed",
+    title: "Winds",
+    url: "https://getstream.io/winds/"
   },
 
   {
@@ -479,10 +479,58 @@ const sites = [
     type: "translation",
     title: "DeepL",
     url: "https://www.deepl.com/translator"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "RSS feed",
+    title: "Miniflux",
+    url: "https://miniflux.app/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "storage",
+    title: "Piwigo",
+    url: "https://piwigo.com/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "storage",
+    title: "Cryptee",
+    url: "https://crypt.ee/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "blog",
+    title: "Blot",
+    url: "https://blot.im"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "blog",
+    title: "Sigle",
+    url: "https://www.sigle.io/"
+  },
+
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "note taking",
+    title: "Mak ink",
+    url: "https://mak.ink/"
   }
-
+  
 ]
-
 
 
 /*
