@@ -500,14 +500,6 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "storage",
-    title: "Cryptee",
-    url: "https://crypt.ee/"
-  },
-
-  {
-    contact: "placeholder",
-    langs: [''],
     type: "blog",
     title: "Blot",
     url: "https://blot.im"
@@ -584,9 +576,44 @@ const sites = [
     type: "text editor/IDE",
     title: "LaTex",
     url: "https://www.latex-project.org/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "browser",
+    title: "Tor",
+    url: "https://www.torproject.org/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "RSS feed",
+    title: "NetNewsWire",
+    url: "http://netnewswireapp.com/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "other",
+    title: "wormhole",
+    url: "https://magic-wormhole.readthedocs.io/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "other",
+    title: "age",
+    url: "https://github.com/FiloSottile/age"
   }
   
 ]
+
+
+
 
 
 /*
