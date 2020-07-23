@@ -285,8 +285,8 @@ const sites = [
     contact: "placeholder",
     langs: [''],
     type: "password manager",
-    title: "Psono",
-    url: "https://psono.com/"
+    title: "KeePassXC",
+    url: "https://keepassxc.org/"
   },
 
   {
