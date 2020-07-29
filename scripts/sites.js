@@ -277,14 +277,6 @@ const sites = [
     contact: "placeholder",
     langs: [''],
     type: "password manager",
-    title: "KeepassX",
-    url: "https://www.keepassx.org/"
-  },
-
-  {
-    contact: "placeholder",
-    langs: [''],
-    type: "password manager",
     title: "KeePassXC",
     url: "https://keepassxc.org/"
   },
