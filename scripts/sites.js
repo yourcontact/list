@@ -76,7 +76,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "RSS feed",
+    type: "rss reader",
     title: "Winds",
     url: "https://getstream.io/winds/"
   },
@@ -476,7 +476,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "RSS feed",
+    type: "rss reader",
     title: "Miniflux",
     url: "https://miniflux.app/"
   },
@@ -581,7 +581,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "RSS feed",
+    type: "rss reader",
     title: "NetNewsWire",
     url: "http://netnewswireapp.com/"
   },
@@ -600,13 +600,17 @@ const sites = [
     type: "other",
     title: "age",
     url: "https://github.com/FiloSottile/age"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "RSS reader",
+    title: "FreshRSS",
+    url: "https://freshrss.org/"
   }
   
 ]
-
-
-
-
 
 /*
 Make sure you've read the README!
