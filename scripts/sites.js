@@ -605,7 +605,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "RSS reader",
+    type: "rss reader",
     title: "FreshRSS",
     url: "https://freshrss.org/"
   }
