@@ -608,7 +608,26 @@ const sites = [
     type: "rss reader",
     title: "FreshRSS",
     url: "https://freshrss.org/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "rss reader",
+    title: "Manyverse",
+    url: "https://www.manyver.se/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "social network",
+    title: "Scuttlebutt",
+    url: "https://scuttlebutt.nz"
   }
+
+
+ 
   
 ]
 
