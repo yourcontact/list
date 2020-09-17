@@ -173,8 +173,8 @@ const sites = [
     contact: "placeholder",
     langs: [''],
     type: "instant messaging",
-    title: "Riot",
-    url: "https://about.riot.im/"
+    title: "Element",
+    url: "https://element.io/"
   },
 
   {
@@ -625,9 +625,6 @@ const sites = [
     title: "Scuttlebutt",
     url: "https://scuttlebutt.nz"
   }
-
-
- 
   
 ]
 
