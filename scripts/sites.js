@@ -624,6 +624,14 @@ const sites = [
     type: "social network",
     title: "Scuttlebutt",
     url: "https://scuttlebutt.nz"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "text editor/IDE",
+    title: "stroke",
+    url: "https://stroke.lllllllllllllllll.com/"
   }
   
 ]
