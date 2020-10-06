@@ -632,6 +632,14 @@ const sites = [
     type: "text editor/IDE",
     title: "stroke",
     url: "https://stroke.lllllllllllllllll.com/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "calendar",
+    title: "khal",
+    url: "https://lostpackets.de/khal/index.html"
   }
   
 ]
