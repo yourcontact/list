@@ -613,7 +613,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "rss reader",
+    type: "social network",
     title: "Manyverse",
     url: "https://www.manyver.se/"
   },
