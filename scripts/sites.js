@@ -648,6 +648,38 @@ const sites = [
     type: "to-do list",
     title: "Taskwarrior",
     url: "https://taskwarrior.org/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "address book",
+    title: "khard",
+    url: "https://github.com/scheibler/khard"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "address book",
+    title: "Mates",
+    url: "https://github.com/pimutils/mates.rs"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "to-do list",
+    title: "todoman",
+    url: "https://todoman.readthedocs.io/en/stable/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "calendar",
+    title: "vdirsyncer",
+    url: "https://vdirsyncer.pimutils.org/en/stable/"
   }
   
 ]
