@@ -640,6 +640,14 @@ const sites = [
     type: "calendar",
     title: "khal",
     url: "https://lostpackets.de/khal/index.html"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "to-do list",
+    title: "Taskwarrior",
+    url: "https://taskwarrior.org/"
   }
   
 ]
