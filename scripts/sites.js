@@ -4,7 +4,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "other",
+    type: "audio software",
     title: "Audacity",
     url: "https://www.audacityteam.org"
   },
@@ -148,14 +148,6 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "other",
-    title: "Firefox Send",
-    url: "https://send.firefox.com"
-  },
-
-  {
-    contact: "placeholder",
-    langs: [''],
     type: "map",
     title: "Open Street Map",
     url: "https://www.openstreetmap.org"
@@ -164,7 +156,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "other",
+    type: "media player",
     title: "VLC",
     url: "https://www.videolan.org/vlc/"
   },
@@ -284,7 +276,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "other",
+    type: "screen recorder",
     title: "Kap",
     url: "https://getkap.co"
   },
@@ -404,7 +396,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "other",
+    type: "video streaming",
     title: "PeerTube",
     url: "https://joinpeertube.org/"
   },
@@ -589,7 +581,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "other",
+    type: "file transfer",
     title: "wormhole",
     url: "https://magic-wormhole.readthedocs.io/"
   },
