@@ -293,14 +293,6 @@ const sites = [
     contact: "placeholder",
     langs: [''],
     type: "search engine",
-    title: "StartPage",
-    url: "https://www.startpage.com/"
-  },
-
-  {
-    contact: "placeholder",
-    langs: [''],
-    type: "search engine",
     title: "Searx",
     url: "https://searx.me/"
   },
