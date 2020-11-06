@@ -704,7 +704,24 @@ const sites = [
     type: "android OS",
     title: "GrapheneOS",
     url: "https://grapheneos.org/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "blog",
+    title: "Hugo",
+    url: "https://gohugo.io/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "blog",
+    title: "Ghost",
+    url: "https://ghost.org/"
   }
+
 
 ]
 
