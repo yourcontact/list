@@ -213,14 +213,6 @@ const sites = [
     contact: "placeholder",
     langs: [''],
     type: "password manager",
-    title: "Keepass",
-    url: "https://keepass.info/"
-  },
-
-  {
-    contact: "placeholder",
-    langs: [''],
-    type: "password manager",
     title: "Bitwarden",
     url: "https://bitwarden.com/"
   },
@@ -737,7 +729,6 @@ const sites = [
     title: "Signal (music)",
     url: "  https://signal.vercel.app/"
   }
-
 
 ]
 
