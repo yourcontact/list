@@ -664,8 +664,48 @@ const sites = [
     type: "calendar",
     title: "vdirsyncer",
     url: "https://vdirsyncer.pimutils.org/en/stable/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "map",
+    title: "OSMad",
+    url: "https://osmand.net/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "phone",
+    title: "PinePhone",
+    url: "https://www.pine64.org/pinephone/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "phone",
+    title: "Librem 5",
+    url: "https://puri.sm/products/librem-5/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "android OS",
+    title: "LineageOS",
+    url: "https://lineageos.org/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "android OS",
+    title: "GrapheneOS",
+    url: "https://grapheneos.org/"
   }
-  
+
 ]
 
 /*
