@@ -421,14 +421,6 @@ const sites = [
     contact: "placeholder",
     langs: [''],
     type: "instant messaging",
-    title: "Threema",
-    url: "https://threema.ch/en"
-  },
-
-  {
-    contact: "placeholder",
-    langs: [''],
-    type: "instant messaging",
     title: "Conversation",
     url: "https://conversations.im/"
   },
