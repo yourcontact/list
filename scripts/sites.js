@@ -720,6 +720,22 @@ const sites = [
     type: "blog",
     title: "Ghost",
     url: "https://ghost.org/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "other",
+    title: "semiphemeral",
+    url: "https://semiphemeral.com/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "other",
+    title: "Signal (music)",
+    url: "  https://signal.vercel.app/"
   }
 
 
