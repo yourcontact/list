@@ -100,7 +100,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "email",
+    type: "email client",
     title: "Thunderbird",
     url: "https://www.thunderbird.net/"
   },
@@ -108,7 +108,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "email",
+    type: "email client",
     title: "Kanmail",
     url: "https://kanmail.io/"
   },
@@ -124,7 +124,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "email",
+    type: "email provider",
     title: "ProtonMail",
     url: "https://protonmail.com/"
   },
@@ -132,7 +132,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "email",
+    type: "email provider",
     title: "Tutanota",
     url: "https://www.tutanota.com/"
   },
@@ -140,7 +140,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "email",
+    type: "email provider",
     title: "FastMail",
     url: "https://www.fastmail.com/"
   },
