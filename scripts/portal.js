@@ -7,8 +7,8 @@ function Portal (sites) {
 
   // Templates
 
-  const _readme = '<p class="readme">This is a list of privacy-friendly products. </p><p>To add a product, submit an <a href="https://github.com/yourcontact/list/issues/new/" target="_blank">Issue</a>.<br />If you found a broken link, please <a href="https://github.com/yourcontact/list/issues/new" target="_blank">report it</a>.</p>'
-  const _buttons = '<p class="buttons"> <a href="https://github.com/yourcontact/list">Code source</a> |  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> <a id="icon" href="https://webring.xxiivv.com/#random"></a> </p>'
+  const _readme = '<p class="readme">This is a list of privacy-friendly products. </p><p>To add a product, <a href="mailto:rpsa@pm.me" target="_blank">send me an email</a>.<br />If you found a broken link, please <a href="mailto:rpsa@pm.me" target="_blank">email me</a>.<br />If you want to get updates when I add products, <a href="https://rpsa.substack.com/" target="_blank">sign up</a></p>'
+  const _buttons = '<p class="buttons"> <a href="https://github.com/yourcontact/list">Code source</a> | This website is a fork from <a href="https://webring.xxiivv.com/">webring</a> | <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> <a id="icon" href="https://webring.xxiivv.com/#random"></a> </p>'
 
   function _directory (sites) {
     const siteTypesArray = [...new Set(sites.map(site => site.type).filter(Boolean))]
