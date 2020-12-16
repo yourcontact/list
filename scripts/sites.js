@@ -558,8 +558,8 @@ const sites = [
     contact: "placeholder",
     langs: [''],
     type: "file transfer",
-    title: "wormhole",
-    url: "https://magic-wormhole.readthedocs.io/"
+    title: "OnionShare",
+    url: "https://onionshare.org/"
   },
 
   {
