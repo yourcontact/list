@@ -720,6 +720,14 @@ const sites = [
     type: "other",
     title: "Signal (music)",
     url: "  https://signal.vercel.app/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "e-book library",
+    title: "Calibre",
+    url: "https://calibre-ebook.com/"
   }
 
 ]
