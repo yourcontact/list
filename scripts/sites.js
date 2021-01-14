@@ -332,7 +332,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "Markdown editor",
+    type: "markdown editor",
     title: "MacDown",
     url: "https://macdown.uranusjr.com/"
   },
@@ -372,7 +372,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "Markdown editor",
+    type: "markdown editor",
     title: "Zettlr",
     url: "https://www.zettlr.com/"
   },
@@ -420,7 +420,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "blog CMS",
+    type: "blog cms",
     title: "Blot",
     url: "https://blot.im"
   },
@@ -428,7 +428,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "blog CMS",
+    type: "blog cms",
     title: "Sigle",
     url: "https://www.sigle.io/"
   },
@@ -445,7 +445,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "IDE",
+    type: "ide",
     title: "Atome",
     url: "https://atom.io/"
   },
@@ -453,7 +453,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "IDE",
+    type: "ide",
     title: "Brackers",
     url: "http://brackets.io/"
   },
@@ -461,7 +461,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "IDE",
+    type: "ide",
     title: "Visual Code Studio",
     url: "https://code.visualstudio.com/"
   },
@@ -469,7 +469,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "Markdown editor",
+    type: "markdown editor",
     title: "Ghostwriter",
     url: "https://wereturtle.github.io/ghostwriter/"
   },
@@ -637,7 +637,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "blog CMS",
+    type: "blog cms",
     title: "Ghost",
     url: "https://ghost.org/"
   },
@@ -696,8 +696,17 @@ const sites = [
     type: "web-based word processor",
     title: "Etherpad",
     url: "https://etherpad.org/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "search engine",
+    title: "ecosia",
+    url: "https://www.ecosia.org/"
   }
 
+  
 ]
 
 /*
