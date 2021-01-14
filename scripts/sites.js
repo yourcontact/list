@@ -53,14 +53,6 @@ const sites = [
     contact: "placeholder",
     langs: [''],
     type: "browser",
-    title: "Vivaldi",
-    url: "https://vivaldi.com/"
-  },
-
-  {
-    contact: "placeholder",
-    langs: [''],
-    type: "browser",
     title: "Chromium (ungoogled)",
     url: "https://ungoogled-software.github.io/ungoogled-chromium-binaries/"
   },
@@ -340,7 +332,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "text editor/IDE",
+    type: "Markdown editor",
     title: "MacDown",
     url: "https://macdown.uranusjr.com/"
   },
@@ -348,7 +340,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "text editor/IDE",
+    type: "text editor",
     title: "Vim",
     url: "https://www.vim.org/"
   },
@@ -356,7 +348,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "text editor/IDE",
+    type: "word processor",
     title: "LibreOffice Writer",
     url: "https://www.libreoffice.org/discover/writer/"
   },
@@ -380,7 +372,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "text editor/IDE",
+    type: "Markdown editor",
     title: "Zettlr",
     url: "https://www.zettlr.com/"
   },
@@ -428,7 +420,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "blog",
+    type: "blog CMS",
     title: "Blot",
     url: "https://blot.im"
   },
@@ -436,7 +428,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "blog",
+    type: "blog CMS",
     title: "Sigle",
     url: "https://www.sigle.io/"
   },
@@ -453,7 +445,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "text editor/IDE",
+    type: "IDE",
     title: "Atome",
     url: "https://atom.io/"
   },
@@ -461,7 +453,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "text editor/IDE",
+    type: "IDE",
     title: "Brackers",
     url: "http://brackets.io/"
   },
@@ -469,7 +461,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "text editor/IDE",
+    type: "IDE",
     title: "Visual Code Studio",
     url: "https://code.visualstudio.com/"
   },
@@ -477,7 +469,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "text editor/IDE",
+    type: "Markdown editor",
     title: "Ghostwriter",
     url: "https://wereturtle.github.io/ghostwriter/"
   },
@@ -485,7 +477,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "text editor/IDE",
+    type: "note taking",
     title: "GitBook",
     url: "https://www.gitbook.com/"
   },
@@ -493,7 +485,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "text editor/IDE",
+    type: "word processor",
     title: "Bibisco",
     url: "https://bibisco.com/"
   },
@@ -501,7 +493,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "text editor/IDE",
+    type: "word processor",
     title: "LaTex",
     url: "https://www.latex-project.org/"
   },
@@ -557,7 +549,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "text editor/IDE",
+    type: "text editor",
     title: "stroke",
     url: "https://stroke.lllllllllllllllll.com/"
   },
@@ -637,7 +629,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "blog",
+    type: "blog CMS",
     title: "Hugo",
     url: "https://gohugo.io/"
   },
@@ -645,7 +637,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "blog",
+    type: "blog CMS",
     title: "Ghost",
     url: "https://ghost.org/"
   },
@@ -677,9 +669,9 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "spreadsheet",
-    title: "Etherpad",
-    url: "https://etherpad.org/"
+    type: "web-based spreadsheet",
+    title: "EtherCal",
+    url: "https://ethercalc.net/"
   },
 
   {
@@ -696,6 +688,14 @@ const sites = [
     type: "file transfer",
     title: "Framadrop",
     url: "https://framadrop.org/en/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "web-based word processor",
+    title: "Etherpad",
+    url: "https://etherpad.org/"
   }
 
 ]
