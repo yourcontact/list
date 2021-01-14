@@ -92,14 +92,6 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "other",
-    title: "Keys.pub",
-    url: "https://keys.pub"
-  },
-
-  {
-    contact: "placeholder",
-    langs: [''],
     type: "email client",
     title: "Thunderbird",
     url: "https://www.thunderbird.net/"
@@ -116,7 +108,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "email",
+    type: "email provider",
     title: "MailDrop",
     url: "https://maildrop.cc/"
   },
@@ -388,22 +380,6 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "other",
-    title: "Indico",
-    url: "https://getindico.io/"
-  },
-
-  {
-    contact: "placeholder",
-    langs: [''],
-    type: "note taking",
-    title: "Left",
-    url: "https://hundredrabbits.itch.io/left"
-  },
-
-  {
-    contact: "placeholder",
-    langs: [''],
     type: "text editor/IDE",
     title: "Zettlr",
     url: "https://www.zettlr.com/"
@@ -415,14 +391,6 @@ const sites = [
     type: "phone",
     title: "The Light Phone",
     url: "https://www.thelightphone.com"
-  },
-
-  {
-    contact: "placeholder",
-    langs: [''],
-    type: "instant messaging",
-    title: "Conversation",
-    url: "https://conversations.im/"
   },
 
   {
@@ -565,14 +533,6 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "other",
-    title: "age",
-    url: "https://github.com/FiloSottile/age"
-  },
-
-  {
-    contact: "placeholder",
-    langs: [''],
     type: "rss reader",
     title: "FreshRSS",
     url: "https://freshrss.org/"
@@ -629,25 +589,9 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "address book",
-    title: "Mates",
-    url: "https://github.com/pimutils/mates.rs"
-  },
-
-  {
-    contact: "placeholder",
-    langs: [''],
     type: "to-do list",
     title: "todoman",
     url: "https://todoman.readthedocs.io/en/stable/"
-  },
-
-  {
-    contact: "placeholder",
-    langs: [''],
-    type: "calendar",
-    title: "vdirsyncer",
-    url: "https://vdirsyncer.pimutils.org/en/stable/"
   },
 
   {
@@ -728,6 +672,30 @@ const sites = [
     type: "e-book library",
     title: "Calibre",
     url: "https://calibre-ebook.com/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "spreadsheet",
+    title: "Etherpad",
+    url: "https://etherpad.org/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "polls",
+    title: "Framadate",
+    url: "https://framadate.org/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "file transfer",
+    title: "Framadrop",
+    url: "https://framadrop.org/en/"
   }
 
 ]
