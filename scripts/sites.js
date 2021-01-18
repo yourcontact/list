@@ -696,8 +696,31 @@ const sites = [
     type: "search engine",
     title: "ecosia",
     url: "https://www.ecosia.org/"
-  }
+  },
 
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "file transfer",
+    title: "drop by sans nuage",
+    url: "https://drop.sans-nuage.fr/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "file transfer",
+    title: "drop by chapril ",
+    url: "https://drop.chapril.org/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "file transfer",
+    title: "drop by infini",
+    url: "https://drop.infini.fr/"
+  }
   
 ]
 
