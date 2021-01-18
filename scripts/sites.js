@@ -685,14 +685,6 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "file transfer",
-    title: "Framadrop",
-    url: "https://framadrop.org/en/"
-  },
-
-  {
-    contact: "placeholder",
-    langs: [''],
     type: "web-based word processor",
     title: "Etherpad",
     url: "https://etherpad.org/"
