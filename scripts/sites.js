@@ -420,7 +420,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "blog cms",
+    type: "blog CMS",
     title: "Blot",
     url: "https://blot.im"
   },
@@ -428,7 +428,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "blog cms",
+    type: "blog CMS",
     title: "Sigle",
     url: "https://www.sigle.io/"
   },
@@ -637,7 +637,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "blog cms",
+    type: "blog CMS",
     title: "Ghost",
     url: "https://ghost.org/"
   },
