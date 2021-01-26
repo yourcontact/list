@@ -356,9 +356,9 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "voip",
+    type: "VoIP",
     title: "Jitsi",
-    url: "https://jitsi.org/"
+    url: "https://meet.jit.si/"
   },
 
   {
@@ -388,7 +388,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "voip",
+    type: "VoIP",
     title: "Big Blue Button",
     url: "https://bigbluebutton.org/"
   },
@@ -493,14 +493,6 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "word processor",
-    title: "LaTex",
-    url: "https://www.latex-project.org/"
-  },
-
-  {
-    contact: "placeholder",
-    langs: [''],
     type: "browser",
     title: "Tor",
     url: "https://www.torproject.org/"
@@ -552,38 +544,6 @@ const sites = [
     type: "text editor",
     title: "stroke",
     url: "https://stroke.lllllllllllllllll.com/"
-  },
-
-  {
-    contact: "placeholder",
-    langs: [''],
-    type: "calendar",
-    title: "khal",
-    url: "https://lostpackets.de/khal/index.html"
-  },
-
-  {
-    contact: "placeholder",
-    langs: [''],
-    type: "to-do list",
-    title: "Taskwarrior",
-    url: "https://taskwarrior.org/"
-  },
-
-  {
-    contact: "placeholder",
-    langs: [''],
-    type: "address book",
-    title: "khard",
-    url: "https://github.com/scheibler/khard"
-  },
-
-  {
-    contact: "placeholder",
-    langs: [''],
-    type: "to-do list",
-    title: "todoman",
-    url: "https://todoman.readthedocs.io/en/stable/"
   },
 
   {
@@ -725,11 +685,27 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "web-based",
+    type: "web-based spreadsheet",
     title: "cryptpad",
     url: "https://cryptpad.fr/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "markdown editor",
+    title: "Mark Text",
+    url: "https://marktext.app/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "markdown editor",
+    title: "Dillinger",
+    url: "https://dillinger.io/"
   }
-  
+
 ]
 
 /*
