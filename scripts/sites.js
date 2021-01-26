@@ -725,7 +725,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "web-based spreadsheet", "web-based word processor",
+    type: "web-based",
     title: "cryptpad",
     url: "https://cryptpad.fr/"
   }
