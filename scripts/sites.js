@@ -720,6 +720,14 @@ const sites = [
     type: "file transfer",
     title: "drop by infini",
     url: "https://drop.infini.fr/"
+  },
+
+  {
+    contact: "placeholder",
+    langs: [''],
+    type: "web-based spreadsheet", "web-based word processor",
+    title: "cryptpad",
+    url: "https://cryptpad.fr/"
   }
   
 ]
