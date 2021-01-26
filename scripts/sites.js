@@ -252,7 +252,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "screen recorder",
+    type: "other",
     title: "Kap",
     url: "https://getkap.co"
   },
@@ -396,7 +396,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "translation",
+    type: "other",
     title: "DeepL",
     url: "https://www.deepl.com/translator"
   },
@@ -621,7 +621,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "e-book library",
+    type: "other",
     title: "Calibre",
     url: "https://calibre-ebook.com/"
   },
@@ -637,7 +637,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "polls",
+    type: "other",
     title: "Framadate",
     url: "https://framadate.org/"
   },
