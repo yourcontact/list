@@ -4,7 +4,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "audio software",
+    type: "other",
     title: "Audacity",
     url: "https://www.audacityteam.org"
   },
@@ -140,7 +140,7 @@ const sites = [
   {
     contact: "placeholder",
     langs: [''],
-    type: "media player",
+    type: "other",
     title: "VLC",
     url: "https://www.videolan.org/vlc/"
   },
@@ -472,14 +472,6 @@ const sites = [
     type: "markdown editor",
     title: "Ghostwriter",
     url: "https://wereturtle.github.io/ghostwriter/"
-  },
-
-  {
-    contact: "placeholder",
-    langs: [''],
-    type: "note taking",
-    title: "GitBook",
-    url: "https://www.gitbook.com/"
   },
 
   {
